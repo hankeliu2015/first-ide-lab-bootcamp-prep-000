@@ -1,2 +1,3 @@
 first lab: 
   you make an edit to edit-me.txt
+  console.log('this is a test');
